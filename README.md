@@ -245,6 +245,3 @@ When a master key is provided:
 
 **⚠️ Disclaimer**: Lunaris is designed for educational purposes and light obfuscation. For production systems requiring strong security, use established cryptographic libraries like `cryptography` or `PyCryptodome`.
 
-<p align="center">
-  Made with 🌙 by [Your Name]
-</p>
