@@ -21,7 +21,7 @@ A secure, custom encryption system featuring predefined character mappings with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lunaris-encryption.git
+git clone https://github.com/volksgeistt/lunaris
 cd lunaris
 
 # No additional dependencies required - uses Python standard library only!
